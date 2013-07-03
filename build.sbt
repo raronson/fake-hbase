@@ -2,7 +2,7 @@ name := "fake-hbase"
 
 organization := "org.kiji.testing"
 
-version := "0.0.5"
+version := "0.1.0"
 
 scalaVersion := "2.10.1"
 

@@ -952,8 +952,6 @@ class FakeHTable(
     }
   }
 
-def append(x$1: org.apache.hadoop.hbase.client.Append): org.apache.hadoop.hbase.client.Result = ???
-def mutateRow(x$1: org.apache.hadoop.hbase.client.RowMutations): Unit = ???
   // -----------------------------------------------------------------------------------------------
 
 }
